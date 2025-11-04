@@ -1,0 +1,8 @@
+aiogram
+aiohttp
+aiodns
+aiofiles
+python-whois
+exifread
+uvloop
+bs4
