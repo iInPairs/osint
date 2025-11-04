@@ -1,0 +1,748 @@
+{
+  "http://github.com": {
+    "requested_url": "http://github.com",
+    "final_url": "https://github.com/",
+    "robots_allowed": true,
+    "title": "GitHub · Build and ship software on a single, collaborative platform · GitHub",
+    "description": "Join the world's most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity.",
+    "emails": [],
+    "host": "github.com",
+    "ip": "140.82.121.3",
+    "geo": {
+      "status": "success",
+      "country": "Germany",
+      "countryCode": "DE",
+      "region": "HE",
+      "regionName": "Hesse",
+      "city": "Frankfurt am Main",
+      "zip": "60313",
+      "lat": 50.1169,
+      "lon": 8.6837,
+      "timezone": "Europe/Berlin",
+      "isp": "GitHub, Inc.",
+      "org": "GitHub, Inc.",
+      "as": "AS36459 GitHub, Inc.",
+      "query": "140.82.121.3"
+    },
+    "dns": {
+      "A": [
+        "<ares_query_a_result> host=140.82.121.3, ttl=20"
+      ],
+      "MX": [
+        "<ares_query_mx_result> host=alt1.aspmx.l.google.com, priority=5, ttl=-1",
+        "<ares_query_mx_result> host=alt2.aspmx.l.google.com, priority=5, ttl=-1",
+        "<ares_query_mx_result> host=aspmx.l.google.com, priority=1, ttl=-1",
+        "<ares_query_mx_result> host=alt4.aspmx.l.google.com, priority=10, ttl=-1",
+        "<ares_query_mx_result> host=alt3.aspmx.l.google.com, priority=10, ttl=-1"
+      ],
+      "NS": [
+        "<ares_query_ns_result> host=ns-520.awsdns-01.net, ttl=-1",
+        "<ares_query_ns_result> host=dns1.p08.nsone.net, ttl=-1",
+        "<ares_query_ns_result> host=dns2.p08.nsone.net, ttl=-1",
+        "<ares_query_ns_result> host=ns-1707.awsdns-21.co.uk, ttl=-1",
+        "<ares_query_ns_result> host=ns-421.awsdns-52.com, ttl=-1",
+        "<ares_query_ns_result> host=ns-1283.awsdns-32.org, ttl=-1",
+        "<ares_query_ns_result> host=dns3.p08.nsone.net, ttl=-1",
+        "<ares_query_ns_result> host=dns4.p08.nsone.net, ttl=-1"
+      ],
+      "TXT": "Error or none: (12, 'Timeout while contacting DNS servers')"
+    },
+    "whois": {
+      "domain_name": "GITHUB.COM",
+      "registrar": "MarkMonitor, Inc.",
+      "registrar_url": "http://www.markmonitor.com",
+      "reseller": null,
+      "whois_server": "whois.markmonitor.com",
+      "referral_url": null,
+      "updated_date": [
+        "2024-09-07T09:16:32+00:00",
+        "2024-09-07T09:16:33+00:00"
+      ],
+      "creation_date": "2007-10-09T18:20:50+00:00",
+      "expiration_date": [
+        "2026-10-09T18:20:50+00:00",
+        "2026-10-09T00:00:00+00:00"
+      ],
+      "name_servers": [
+        "DNS1.P08.NSONE.NET",
+        "DNS2.P08.NSONE.NET",
+        "DNS3.P08.NSONE.NET",
+        "DNS4.P08.NSONE.NET",
+        "NS-1283.AWSDNS-32.ORG",
+        "NS-1707.AWSDNS-21.CO.UK",
+        "NS-421.AWSDNS-52.COM",
+        "NS-520.AWSDNS-01.NET"
+      ],
+      "status": [
+        "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+        "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+        "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+        "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+        "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+        "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)"
+      ],
+      "emails": [
+        "abusecomplaints@markmonitor.com",
+        "whoisrequest@markmonitor.com"
+      ],
+      "dnssec": "unsigned",
+      "name": null,
+      "org": "GitHub, Inc.",
+      "address": null,
+      "city": null,
+      "state": null,
+      "registrant_postal_code": null,
+      "country": "US",
+      "tech_name": null,
+      "tech_org": null,
+      "admin_name": null,
+      "admin_org": null
+    },
+    "timestamp": "2025-10-11T08:12:27.742166"
+  },
+  "http://google.com": {
+    "requested_url": "http://google.com",
+    "final_url": "http://www.google.com/",
+    "robots_allowed": false,
+    "title": "Google",
+    "description": "",
+    "emails": [],
+    "host": "www.google.com",
+    "ip": "216.58.209.4",
+    "geo": {
+      "status": "success",
+      "country": "United States",
+      "countryCode": "US",
+      "region": "CA",
+      "regionName": "California",
+      "city": "Mountain View",
+      "zip": "94043",
+      "lat": 37.4043,
+      "lon": -122.0748,
+      "timezone": "America/Los_Angeles",
+      "isp": "Google LLC",
+      "org": "Google LLC",
+      "as": "AS15169 Google LLC",
+      "query": "216.58.209.4"
+    },
+    "dns": {
+      "A": [
+        "<ares_query_a_result> host=216.58.209.4, ttl=172"
+      ],
+      "MX": "Error or none: (1, 'DNS server returned answer with no data')",
+      "NS": "Error or none: (1, 'DNS server returned answer with no data')",
+      "TXT": "Error or none: (1, 'DNS server returned answer with no data')"
+    },
+    "whois": {
+      "domain_name": "GOOGLE.COM",
+      "registrar": "MarkMonitor, Inc.",
+      "registrar_url": "http://www.markmonitor.com",
+      "reseller": null,
+      "whois_server": "whois.markmonitor.com",
+      "referral_url": null,
+      "updated_date": [
+        "2019-09-09T15:39:04+00:00",
+        "2024-08-02T02:17:33+00:00"
+      ],
+      "creation_date": [
+        "1997-09-15T04:00:00+00:00",
+        "1997-09-15T07:00:00+00:00"
+      ],
+      "expiration_date": [
+        "2028-09-14T04:00:00+00:00",
+        "2028-09-13T07:00:00+00:00"
+      ],
+      "name_servers": [
+        "NS1.GOOGLE.COM",
+        "NS2.GOOGLE.COM",
+        "NS3.GOOGLE.COM",
+        "NS4.GOOGLE.COM"
+      ],
+      "status": [
+        "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+        "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+        "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+        "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+        "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+        "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+        "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+        "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+        "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+        "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)",
+        "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+        "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)"
+      ],
+      "emails": [
+        "abusecomplaints@markmonitor.com",
+        "whoisrequest@markmonitor.com"
+      ],
+      "dnssec": "unsigned",
+      "name": null,
+      "org": "Google LLC",
+      "address": null,
+      "city": null,
+      "state": null,
+      "registrant_postal_code": null,
+      "country": "US",
+      "tech_name": null,
+      "tech_org": null,
+      "admin_name": null,
+      "admin_org": null
+    },
+    "timestamp": "2025-10-11T08:12:43.344337"
+  },
+  "https://www.perplexity.ai/": {
+    "error": "Error fetching: 403, message='Forbidden', url='https://www.perplexity.ai/'"
+  },
+  "https://chatgpt.com/": {
+    "error": "Error fetching: 403, message='Forbidden', url='https://chatgpt.com/'"
+  },
+  "http://jetbrains.com": {
+    "requested_url": "http://jetbrains.com",
+    "final_url": "https://www.jetbrains.com/",
+    "robots_allowed": true,
+    "title": "JetBrains: Essential tools for software developers and teams",
+    "description": "JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools, including IntelliJ IDEA – the leading Java IDE, and the Kotlin programming language.",
+    "emails": [],
+    "host": "www.jetbrains.com",
+    "ip": "108.138.51.76",
+    "geo": {
+      "status": "success",
+      "country": "Ireland",
+      "countryCode": "IE",
+      "region": "L",
+      "regionName": "Leinster",
+      "city": "Dublin",
+      "zip": "D02",
+      "lat": 53.3498,
+      "lon": -6.26031,
+      "timezone": "Europe/Dublin",
+      "isp": "Amazon.com, Inc.",
+      "org": "AWS CloudFront (GLOBAL)",
+      "as": "AS16509 Amazon.com, Inc.",
+      "query": "108.138.51.76"
+    },
+    "dns": {
+      "A": [
+        "<ares_query_a_result> host=108.138.51.94, ttl=59",
+        "<ares_query_a_result> host=108.138.51.7, ttl=59",
+        "<ares_query_a_result> host=108.138.51.76, ttl=59",
+        "<ares_query_a_result> host=108.138.51.61, ttl=59"
+      ],
+      "MX": "Error or none: (1, 'DNS server returned answer with no data')",
+      "NS": "Error or none: (1, 'DNS server returned answer with no data')",
+      "TXT": "Error or none: (1, 'DNS server returned answer with no data')"
+    },
+    "whois": {
+      "domain_name": "JETBRAINS.COM",
+      "registrar": "Network Solutions, LLC",
+      "registrar_url": "http://networksolutions.com",
+      "reseller": null,
+      "whois_server": "whois.networksolutions.com",
+      "referral_url": null,
+      "updated_date": [
+        "2018-11-10T02:19:55+00:00",
+        "2023-08-31T07:44:01+00:00"
+      ],
+      "creation_date": "2001-11-09T22:06:26+00:00",
+      "expiration_date": "2028-11-09T22:06:26+00:00",
+      "name_servers": [
+        "NS-1519.AWSDNS-61.ORG",
+        "NS-1701.AWSDNS-20.CO.UK",
+        "NS-345.AWSDNS-43.COM",
+        "NS-613.AWSDNS-12.NET"
+      ],
+      "status": "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+      "emails": [
+        "domain.operations@web.com",
+        "yw9ea5wr2ch@networksolutionsprivateregistration.com"
+      ],
+      "dnssec": "unsigned",
+      "name": "PERFECT PRIVACY, LLC",
+      "org": null,
+      "address": "5335 Gate Parkway care of Network Solutions PO Box 459",
+      "city": "Jacksonville",
+      "state": "FL",
+      "registrant_postal_code": "32256",
+      "country": "US",
+      "tech_name": "PERFECT PRIVACY, LLC",
+      "tech_org": null,
+      "admin_name": null,
+      "admin_org": null
+    },
+    "timestamp": "2025-10-11T08:32:43.191836"
+  },
+  "_api_keys": {
+    "google.com": "1234"
+  },
+  "http://roblox.com": {
+    "requested_url": "http://roblox.com",
+    "final_url": "https://www.roblox.com/",
+    "robots_allowed": true,
+    "title": "Roblox",
+    "description": "Roblox is the ultimate virtual universe that lets you create, share experiences with friends, and be anything you can imagine. Join millions of people and discover an infinite variety of immersive experiences created by a global community!",
+    "emails": [],
+    "host": "www.roblox.com",
+    "ip": "128.116.44.3",
+    "geo": {
+      "status": "success",
+      "country": "Germany",
+      "countryCode": "DE",
+      "region": "HE",
+      "regionName": "Hesse",
+      "city": "Frankfurt am Main",
+      "zip": "60326",
+      "lat": 50.1049,
+      "lon": 8.6295,
+      "timezone": "Europe/Berlin",
+      "isp": "Roblox",
+      "org": "Roblox",
+      "as": "AS22697 Roblox",
+      "query": "128.116.44.3"
+    },
+    "dns": {
+      "A": [
+        "<ares_query_a_result> host=128.116.44.3, ttl=10"
+      ],
+      "MX": [],
+      "NS": "Error or none: (1, 'DNS server returned answer with no data')",
+      "TXT": []
+    },
+    "whois": {
+      "domain_name": "ROBLOX.COM",
+      "registrar": "MarkMonitor, Inc.",
+      "registrar_url": "http://www.markmonitor.com",
+      "reseller": null,
+      "whois_server": "whois.markmonitor.com",
+      "referral_url": null,
+      "updated_date": [
+        "2025-08-30T00:00:36+00:00",
+        "2025-08-29T23:19:53+00:00"
+      ],
+      "creation_date": "2004-01-30T00:08:43+00:00",
+      "expiration_date": [
+        "2027-01-30T00:08:43+00:00",
+        "2027-01-30T00:00:00+00:00"
+      ],
+      "name_servers": [
+        "DNS1.P06.NSONE.NET",
+        "DNS2.P06.NSONE.NET",
+        "DNS3.P06.NSONE.NET",
+        "DNS4.P06.NSONE.NET",
+        "NS01.RBXINFRA.NET",
+        "NS02.RBXINFRA.NET",
+        "NS03.RBXINFRA.NET",
+        "NS04.RBXINFRA.NET"
+      ],
+      "status": [
+        "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+        "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+        "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+        "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+        "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+        "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+        "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+        "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+        "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+        "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)",
+        "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+        "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)"
+      ],
+      "emails": [
+        "abusecomplaints@markmonitor.com",
+        "whoisrequest@markmonitor.com"
+      ],
+      "dnssec": "unsigned",
+      "name": null,
+      "org": "Roblox Corporation",
+      "address": null,
+      "city": null,
+      "state": null,
+      "registrant_postal_code": null,
+      "country": "US",
+      "tech_name": null,
+      "tech_org": null,
+      "admin_name": null,
+      "admin_org": null
+    },
+    "timestamp": "2025-10-11T08:57:51.637980"
+  },
+  "http://edu.goiteens.com": {
+    "requested_url": "http://edu.goiteens.com",
+    "final_url": "https://edu.goiteens.com/",
+    "robots_allowed": null,
+    "title": "",
+    "description": "",
+    "emails": [],
+    "host": "edu.goiteens.com",
+    "ip": "66.33.60.130",
+    "geo": {
+      "status": "success",
+      "country": "United States",
+      "countryCode": "US",
+      "region": "CA",
+      "regionName": "California",
+      "city": "Walnut",
+      "zip": "91789",
+      "lat": 34.0119,
+      "lon": -117.86,
+      "timezone": "America/Los_Angeles",
+      "isp": "Amazon.com, Inc.",
+      "org": "Vercel, Inc",
+      "as": "AS16509 Amazon.com, Inc.",
+      "query": "66.33.60.130"
+    },
+    "dns": {
+      "A": [
+        "<ares_query_a_result> host=66.33.60.130, ttl=299",
+        "<ares_query_a_result> host=76.76.21.22, ttl=299"
+      ],
+      "MX": [],
+      "NS": "Error or none: (1, 'DNS server returned answer with no data')",
+      "TXT": []
+    },
+    "whois": {
+      "domain_name": "GOITEENS.COM",
+      "registrar": "Internet Invest, Ltd. dba Imena.ua",
+      "registrar_url": [
+        "http://www.imena.ua",
+        "http://imena.ua"
+      ],
+      "reseller": null,
+      "whois_server": "whois.imena.ua",
+      "referral_url": null,
+      "updated_date": [
+        "2025-08-19T16:47:02+00:00",
+        "2025-08-19T16:47:03+00:00"
+      ],
+      "creation_date": "2015-08-21T19:06:10+00:00",
+      "expiration_date": "2026-08-21T19:06:10+00:00",
+      "name_servers": [
+        "FRED.NS.CLOUDFLARE.COM",
+        "SHARON.NS.CLOUDFLARE.COM"
+      ],
+      "status": "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+      "emails": [
+        "abuse@imena.ua",
+        "hostmaster@imena.ua"
+      ],
+      "dnssec": "unsigned",
+      "name": "Whois privacy protection service",
+      "org": "REDACTED FOR PRIVACY",
+      "address": "Gaidara, 50 st.",
+      "city": "Kyiv",
+      "state": "Kyiv",
+      "registrant_postal_code": "01033",
+      "country": "UA",
+      "tech_name": "Whois privacy protection service",
+      "tech_org": "Internet Invest, Ltd. dba Imena.ua",
+      "admin_name": "Whois privacy protection service",
+      "admin_org": "Internet Invest, Ltd. dba Imena.ua"
+    },
+    "timestamp": "2025-10-11T09:21:30.039486"
+  },
+  "http://irving-uncondoled-wriggly.ngrok-free.dev": {
+    "requested_url": "http://irving-uncondoled-wriggly.ngrok-free.dev",
+    "final_url": "https://irving-uncondoled-wriggly.ngrok-free.dev/",
+    "robots_allowed": null,
+    "title": "Главная — WebApp",
+    "description": "",
+    "emails": [],
+    "host": "irving-uncondoled-wriggly.ngrok-free.dev",
+    "ip": "3.125.102.39",
+    "geo": {
+      "status": "success",
+      "country": "Germany",
+      "countryCode": "DE",
+      "region": "HE",
+      "regionName": "Hesse",
+      "city": "Frankfurt am Main",
+      "zip": "60313",
+      "lat": 50.1109,
+      "lon": 8.68213,
+      "timezone": "Europe/Berlin",
+      "isp": "Amazon Technologies Inc.",
+      "org": "AWS EC2 (eu-central-1)",
+      "as": "AS16509 Amazon.com, Inc.",
+      "query": "3.125.102.39"
+    },
+    "dns": {
+      "A": [
+        "<ares_query_a_result> host=18.192.31.165, ttl=10",
+        "<ares_query_a_result> host=3.125.209.94, ttl=10",
+        "<ares_query_a_result> host=3.125.223.134, ttl=10",
+        "<ares_query_a_result> host=18.158.249.75, ttl=10",
+        "<ares_query_a_result> host=3.125.102.39, ttl=10",
+        "<ares_query_a_result> host=3.124.142.205, ttl=10"
+      ],
+      "MX": "Error or none: (1, 'DNS server returned answer with no data')",
+      "NS": "Error or none: (1, 'DNS server returned answer with no data')",
+      "TXT": "Error or none: (1, 'DNS server returned answer with no data')"
+    },
+    "whois": {
+      "domain_name": null,
+      "registrar": null,
+      "registrar_url": null,
+      "reseller": null,
+      "whois_server": null,
+      "referral_url": null,
+      "updated_date": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": null,
+      "status": null,
+      "emails": null,
+      "dnssec": null,
+      "name": null,
+      "org": null,
+      "address": null,
+      "city": null,
+      "state": null,
+      "registrant_postal_code": null,
+      "country": null,
+      "tech_name": null,
+      "tech_org": null,
+      "admin_name": null,
+      "admin_org": null
+    },
+    "timestamp": "2025-10-11T09:25:46.282016"
+  },
+  "https://irving-uncondoled-wriggly.ngrok-free.dev": {
+    "requested_url": "https://irving-uncondoled-wriggly.ngrok-free.dev",
+    "final_url": "https://irving-uncondoled-wriggly.ngrok-free.dev",
+    "robots_allowed": null,
+    "title": "Главная — WebApp",
+    "description": "",
+    "emails": [],
+    "host": "irving-uncondoled-wriggly.ngrok-free.dev",
+    "ip": "3.125.102.39",
+    "geo": {
+      "status": "success",
+      "country": "Germany",
+      "countryCode": "DE",
+      "region": "HE",
+      "regionName": "Hesse",
+      "city": "Frankfurt am Main",
+      "zip": "60313",
+      "lat": 50.1109,
+      "lon": 8.68213,
+      "timezone": "Europe/Berlin",
+      "isp": "Amazon Technologies Inc.",
+      "org": "AWS EC2 (eu-central-1)",
+      "as": "AS16509 Amazon.com, Inc.",
+      "query": "3.125.102.39"
+    },
+    "dns": {
+      "A": [
+        "<ares_query_a_result> host=18.192.31.165, ttl=59",
+        "<ares_query_a_result> host=18.158.249.75, ttl=59",
+        "<ares_query_a_result> host=3.124.142.205, ttl=59",
+        "<ares_query_a_result> host=3.125.102.39, ttl=59",
+        "<ares_query_a_result> host=3.125.209.94, ttl=59",
+        "<ares_query_a_result> host=3.125.223.134, ttl=59"
+      ],
+      "MX": "Error or none: (1, 'DNS server returned answer with no data')",
+      "NS": "Error or none: (1, 'DNS server returned answer with no data')",
+      "TXT": "Error or none: (1, 'DNS server returned answer with no data')"
+    },
+    "whois": {
+      "domain_name": null,
+      "registrar": null,
+      "registrar_url": null,
+      "reseller": null,
+      "whois_server": null,
+      "referral_url": null,
+      "updated_date": null,
+      "creation_date": null,
+      "expiration_date": null,
+      "name_servers": null,
+      "status": null,
+      "emails": null,
+      "dnssec": null,
+      "name": null,
+      "org": null,
+      "address": null,
+      "city": null,
+      "state": null,
+      "registrant_postal_code": null,
+      "country": null,
+      "tech_name": null,
+      "tech_org": null,
+      "admin_name": null,
+      "admin_org": null
+    },
+    "timestamp": "2025-10-11T09:27:40.956804"
+  },
+  "http://chatgtp.com": {
+    "requested_url": "http://chatgtp.com",
+    "final_url": "https://chatgtp.com/",
+    "robots_allowed": true,
+    "title": "ChatGTP",
+    "description": "AI Chat",
+    "emails": [],
+    "host": "chatgtp.com",
+    "ip": "172.67.210.153",
+    "geo": {
+      "status": "success",
+      "country": "Canada",
+      "countryCode": "CA",
+      "region": "ON",
+      "regionName": "Ontario",
+      "city": "Toronto",
+      "zip": "M5A",
+      "lat": 43.6532,
+      "lon": -79.3832,
+      "timezone": "America/Toronto",
+      "isp": "Cloudflare, Inc.",
+      "org": "Cloudflare, Inc.",
+      "as": "AS13335 Cloudflare, Inc.",
+      "query": "172.67.210.153"
+    },
+    "dns": {
+      "A": [
+        "<ares_query_a_result> host=104.21.77.171, ttl=300",
+        "<ares_query_a_result> host=172.67.210.153, ttl=300"
+      ],
+      "MX": "Error or none: (1, 'DNS server returned answer with no data')",
+      "NS": [
+        "<ares_query_ns_result> host=cora.ns.cloudflare.com, ttl=-1",
+        "<ares_query_ns_result> host=colin.ns.cloudflare.com, ttl=-1"
+      ],
+      "TXT": "Error or none: (1, 'DNS server returned answer with no data')"
+    },
+    "whois": {
+      "domain_name": "CHATGTP.COM",
+      "registrar": "NAMECHEAP INC",
+      "registrar_url": "http://www.namecheap.com",
+      "reseller": "NAMECHEAP INC",
+      "whois_server": "whois.namecheap.com",
+      "referral_url": null,
+      "updated_date": [
+        "2025-10-11T07:58:47+00:00",
+        "2024-12-26T22:04:19+00:00"
+      ],
+      "creation_date": "2022-12-04T09:05:56+00:00",
+      "expiration_date": "2026-12-04T09:05:56+00:00",
+      "name_servers": [
+        "COLIN.NS.CLOUDFLARE.COM",
+        "CORA.NS.CLOUDFLARE.COM"
+      ],
+      "status": [
+        "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+        "transferPeriod https://icann.org/epp#transferPeriod"
+      ],
+      "emails": [
+        "abuse@namecheap.com",
+        "0896936b3d044b86bf9c47f8b94d9cee.protect@withheldforprivacy.com"
+      ],
+      "dnssec": "unsigned",
+      "name": "Redacted for Privacy",
+      "org": "Privacy service provided by Withheld for Privacy ehf",
+      "address": "Kalkofnsvegur 2",
+      "city": "Reykjavik",
+      "state": "Capital Region",
+      "registrant_postal_code": "101",
+      "country": "IS",
+      "tech_name": "Redacted for Privacy",
+      "tech_org": "Privacy service provided by Withheld for Privacy ehf",
+      "admin_name": "Redacted for Privacy",
+      "admin_org": "Privacy service provided by Withheld for Privacy ehf"
+    },
+    "timestamp": "2025-10-11T09:40:39.784660"
+  },
+  "http://chatgpt.com": {
+    "error": "Error fetching: 403, message='Forbidden', url='https://chatgpt.com/'"
+  },
+  "http://youtube.com": {
+    "requested_url": "http://youtube.com",
+    "final_url": "https://www.youtube.com/",
+    "robots_allowed": true,
+    "title": "YouTube",
+    "description": "Дивіться відео, слухайте улюблену музику, завантажуйте оригінальний контент і діліться всім цим із друзями, сім'єю й цілим світом на YouTube.",
+    "emails": [],
+    "host": "www.youtube.com",
+    "ip": "142.250.75.14",
+    "geo": {
+      "status": "success",
+      "country": "Poland",
+      "countryCode": "PL",
+      "region": "14",
+      "regionName": "Mazovia",
+      "city": "Warsaw",
+      "zip": "00-510",
+      "lat": 52.2297,
+      "lon": 21.0122,
+      "timezone": "Europe/Warsaw",
+      "isp": "Google LLC",
+      "org": "Google LLC",
+      "as": "AS15169 Google LLC",
+      "query": "142.250.75.14"
+    },
+    "dns": {
+      "A": [
+        "<ares_query_a_result> host=142.250.186.206, ttl=17",
+        "<ares_query_a_result> host=172.217.16.14, ttl=17",
+        "<ares_query_a_result> host=142.250.203.206, ttl=17",
+        "<ares_query_a_result> host=172.217.16.46, ttl=17",
+        "<ares_query_a_result> host=216.58.209.14, ttl=17",
+        "<ares_query_a_result> host=142.250.75.14, ttl=17",
+        "<ares_query_a_result> host=216.58.208.206, ttl=17",
+        "<ares_query_a_result> host=216.58.215.78, ttl=17"
+      ],
+      "MX": [],
+      "NS": "Error or none: (1, 'DNS server returned answer with no data')",
+      "TXT": []
+    },
+    "whois": {
+      "domain_name": "YOUTUBE.COM",
+      "registrar": "MarkMonitor, Inc.",
+      "registrar_url": "http://www.markmonitor.com",
+      "reseller": null,
+      "whois_server": "whois.markmonitor.com",
+      "referral_url": null,
+      "updated_date": "2025-01-14T10:06:34+00:00",
+      "creation_date": "2005-02-15T05:13:12+00:00",
+      "expiration_date": [
+        "2026-02-15T05:13:12+00:00",
+        "2026-02-15T00:00:00+00:00"
+      ],
+      "name_servers": [
+        "NS1.GOOGLE.COM",
+        "NS2.GOOGLE.COM",
+        "NS3.GOOGLE.COM",
+        "NS4.GOOGLE.COM"
+      ],
+      "status": [
+        "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+        "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+        "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+        "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+        "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+        "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+        "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+        "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+        "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+        "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)",
+        "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+        "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)"
+      ],
+      "emails": [
+        "abusecomplaints@markmonitor.com",
+        "whoisrequest@markmonitor.com"
+      ],
+      "dnssec": "unsigned",
+      "name": null,
+      "org": "Google LLC",
+      "address": null,
+      "city": null,
+      "state": null,
+      "registrant_postal_code": null,
+      "country": "US",
+      "tech_name": null,
+      "tech_org": null,
+      "admin_name": null,
+      "admin_org": null
+    },
+    "timestamp": "2025-10-12T06:27:14.949615"
+  }
+}

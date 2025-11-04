@@ -1,0 +1,143 @@
+{
+  "query": "GitHub, Inc.",
+  "timestamp": "2025-10-11T08:18:14.090465",
+  "wikipedia": {
+    "title": "GitHub",
+    "summary": "GitHub is a proprietary developer platform that allows developers to create, store, manage, and share their code. It uses Git to provide distributed version control and GitHub itself provides access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project. GitHub has been a subsidiary of Microsoft since 2018 and its headquarters are located in San Francisco.",
+    "description": "Software development collaboration platform",
+    "wiki_url": "https://en.wikipedia.org/wiki/GitHub",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/320px-GitHub_Invertocat_Logo.svg.png",
+    "raw": {
+      "type": "standard",
+      "title": "GitHub",
+      "displaytitle": "<span class=\"mw-page-title-main\">GitHub</span>",
+      "namespace": {
+        "id": 0,
+        "text": ""
+      },
+      "wikibase_item": "Q364",
+      "titles": {
+        "canonical": "GitHub",
+        "normalized": "GitHub",
+        "display": "<span class=\"mw-page-title-main\">GitHub</span>"
+      },
+      "pageid": 18545292,
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/320px-GitHub_Invertocat_Logo.svg.png",
+        "width": 320,
+        "height": 320
+      },
+      "originalimage": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/300px-GitHub_Invertocat_Logo.svg.png",
+        "width": 300,
+        "height": 300
+      },
+      "lang": "en",
+      "dir": "ltr",
+      "revision": "1315732869",
+      "tid": "0b161e78-a42c-11f0-9370-f652324bae2e",
+      "timestamp": "2025-10-08T09:49:12Z",
+      "description": "Software development collaboration platform",
+      "description_source": "local",
+      "content_urls": {
+        "desktop": {
+          "page": "https://en.wikipedia.org/wiki/GitHub",
+          "revisions": "https://en.wikipedia.org/wiki/GitHub?action=history",
+          "edit": "https://en.wikipedia.org/wiki/GitHub?action=edit",
+          "talk": "https://en.wikipedia.org/wiki/Talk:GitHub"
+        },
+        "mobile": {
+          "page": "https://en.wikipedia.org/wiki/GitHub",
+          "revisions": "https://en.wikipedia.org/wiki/Special:History/GitHub",
+          "edit": "https://en.wikipedia.org/wiki/GitHub?action=edit",
+          "talk": "https://en.wikipedia.org/wiki/Talk:GitHub"
+        }
+      },
+      "extract": "GitHub is a proprietary developer platform that allows developers to create, store, manage, and share their code. It uses Git to provide distributed version control and GitHub itself provides access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project. GitHub has been a subsidiary of Microsoft since 2018 and its headquarters are located in San Francisco.",
+      "extract_html": "<p><b>GitHub</b> is a proprietary developer platform that allows developers to create, store, manage, and share their code. It uses Git to provide distributed version control and GitHub itself provides access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project. GitHub has been a subsidiary of Microsoft since 2018 and its headquarters are located in San Francisco.</p>"
+    }
+  },
+  "ddg_links": [
+    {
+      "title": "GitHub · Build and ship software on a single, collaborative platform",
+      "href": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fgithub.com%2F&rut=e8bb76a904943ebf77def47dabc431fe3d67644de7bfe978a694463bed2341eb"
+    },
+    {
+      "title": "GitHub - Wikipedia",
+      "href": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FGithub&rut=ca942156c0302eeb5536f529d77a7b77999757d49fb378ba0a3e2b559840175a"
+    },
+    {
+      "title": "Github Inc · 88 Colin P Kelly Jr St, San Francisco, CA 94107-2008",
+      "href": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fopengovus.com%2Fsam%2Dentity%2FWR2ZN519GFX4&rut=c93be005dc20311d64b556969e58aed9884dcafee8df4079f8756d32499400a1"
+    },
+    {
+      "title": "Who Owns GitHub: Ownership Breakdown - Brands Owned By",
+      "href": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fbrandsownedby.com%2Fwho%2Downs%2Dgithub%2F&rut=17160d21b54fda4ce578a57e26089047e2cd8db35574f5b23bb8b5d143c14f98"
+    },
+    {
+      "title": "Github Inc Company Profile - Github Inc Overview - GlobalData",
+      "href": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.globaldata.com%2Fcompany%2Dprofile%2Fgithub%2Dinc%2F&rut=e8c6923b3a69fcce779a6774fd59edf6d05cf20d139c0d60308a0930629e8abd"
+    },
+    {
+      "title": "GitHub Headquarters & Corporate Office",
+      "href": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.company%2Dheadquarters.com%2Fgithub%2Dheadquarters%2F&rut=e2bbee1fd87c91fd36fda20467ea8fd69e45eafc873a25200f0e5ee562c7bf33"
+    },
+    {
+      "title": "About GitHub",
+      "href": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fgithub.com%2Fabout&rut=20131881fcc30e49d0ef966eeb2eeea14f5ed9531a36ac5427674cb8d140dae5"
+    },
+    {
+      "title": "GITHUB, INC. Employer Identification Number EIN",
+      "href": "//duckduckgo.com/l/?uddg=http%3A%2F%2Fwww.w9ein.com%2FFEIN%2Fcompany_overview.php%2FEIN%2F271519660%2FCompanyName%2FGITHUB%252C%2BINC.&rut=0d64e2801db5885748379fea802eed677797103d47ee7bfd4b6cf5ef8875b3c5"
+    }
+  ],
+  "official_link_guess": "//duckduckgo.com/l/?uddg=http%3A%2F%2Fwww.w9ein.com%2FFEIN%2Fcompany_overview.php%2FEIN%2F271519660%2FCompanyName%2FGITHUB%252C%2BINC.&rut=0d64e2801db5885748379fea802eed677797103d47ee7bfd4b6cf5ef8875b3c5",
+  "domain": "duckduckgo.com",
+  "site_snapshot": {
+    "fetched_url": "https://duckduckgo.com",
+    "title": "DuckDuckGo - Protection. Privacy. Peace of mind.",
+    "description": "The Internet privacy company that empowers you to seamlessly take control of your personal information online, without any tradeoffs.",
+    "emails": []
+  },
+  "whois": {
+    "domain_name": "DUCKDUCKGO.COM",
+    "registrar": "NAMECHEAP INC",
+    "registrar_url": "http://www.namecheap.com",
+    "reseller": "NAMECHEAP INC",
+    "whois_server": "whois.namecheap.com",
+    "referral_url": null,
+    "updated_date": [
+      "2025-05-24T06:31:05+00:00",
+      "2025-05-24T06:31:05.820000+00:00"
+    ],
+    "creation_date": "2007-11-11T17:24:08+00:00",
+    "expiration_date": "2026-06-23T03:59:59+00:00",
+    "name_servers": [
+      "DNS1.P05.NSONE.NET",
+      "DNS2.P05.NSONE.NET",
+      "DNS3.P05.NSONE.NET",
+      "DNS4.P05.NSONE.NET",
+      "NS01.QUACK-DNS.COM",
+      "NS02.QUACK-DNS.COM",
+      "NS03.QUACK-DNS.COM",
+      "NS04.QUACK-DNS.COM"
+    ],
+    "status": "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "emails": [
+      "abuse@namecheap.com",
+      "de8075c2bd82495196c61275cb9215a0.protect@withheldforprivacy.com"
+    ],
+    "dnssec": "unsigned",
+    "name": "Redacted for Privacy",
+    "org": "Privacy service provided by Withheld for Privacy ehf",
+    "address": "Kalkofnsvegur 2",
+    "city": "Reykjavik",
+    "state": "Capital Region",
+    "registrant_postal_code": "101",
+    "country": "IS",
+    "tech_name": "Redacted for Privacy",
+    "tech_org": "Privacy service provided by Withheld for Privacy ehf",
+    "admin_name": "Redacted for Privacy",
+    "admin_org": "Privacy service provided by Withheld for Privacy ehf"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "query": "Amazon.com, Inc.",
+  "timestamp": "2025-10-11T08:36:12.038494",
+  "wikipedia": {
+    "title": "Amazon (company)",
+    "summary": "Amazon.com, Inc., doing business as Amazon, is an American multinational technology company engaged in e-commerce, cloud computing, online advertising, digital streaming, and artificial intelligence. Founded in 1994 by Jeff Bezos in Bellevue, Washington, the company originally started as an online marketplace for books, but gradually expanded its offerings to include a wide range of product categories, referred to as \"The Everything Store\". Amazon is considered part of the Big Tech group, alongside Nvidia, Microsoft, Apple, Alphabet, and Meta.",
+    "description": "American multinational technology conglomerate",
+    "wiki_url": "https://en.wikipedia.org/wiki/Amazon_(company)",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon_Tower_I_topped_out%2C_June_2015.jpg/330px-Amazon_Tower_I_topped_out%2C_June_2015.jpg",
+    "raw": {
+      "type": "standard",
+      "title": "Amazon (company)",
+      "displaytitle": "<span class=\"mw-page-title-main\">Amazon (company)</span>",
+      "namespace": {
+        "id": 0,
+        "text": ""
+      },
+      "wikibase_item": "Q3884",
+      "titles": {
+        "canonical": "Amazon_(company)",
+        "normalized": "Amazon (company)",
+        "display": "<span class=\"mw-page-title-main\">Amazon (company)</span>"
+      },
+      "pageid": 90451,
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon_Tower_I_topped_out%2C_June_2015.jpg/330px-Amazon_Tower_I_topped_out%2C_June_2015.jpg",
+        "width": 320,
+        "height": 480
+      },
+      "originalimage": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Amazon_Tower_I_topped_out%2C_June_2015.jpg",
+        "width": 3168,
+        "height": 4752
+      },
+      "lang": "en",
+      "dir": "ltr",
+      "revision": "1315927219",
+      "tid": "d204a8dc-a512-11f0-b32f-3a971a77c042",
+      "timestamp": "2025-10-09T13:21:10Z",
+      "description": "American multinational technology conglomerate",
+      "description_source": "local",
+      "content_urls": {
+        "desktop": {
+          "page": "https://en.wikipedia.org/wiki/Amazon_(company)",
+          "revisions": "https://en.wikipedia.org/wiki/Amazon_(company)?action=history",
+          "edit": "https://en.wikipedia.org/wiki/Amazon_(company)?action=edit",
+          "talk": "https://en.wikipedia.org/wiki/Talk:Amazon_(company)"
+        },
+        "mobile": {
+          "page": "https://en.wikipedia.org/wiki/Amazon_(company)",
+          "revisions": "https://en.wikipedia.org/wiki/Special:History/Amazon_(company)",
+          "edit": "https://en.wikipedia.org/wiki/Amazon_(company)?action=edit",
+          "talk": "https://en.wikipedia.org/wiki/Talk:Amazon_(company)"
+        }
+      },
+      "extract": "Amazon.com, Inc., doing business as Amazon, is an American multinational technology company engaged in e-commerce, cloud computing, online advertising, digital streaming, and artificial intelligence. Founded in 1994 by Jeff Bezos in Bellevue, Washington, the company originally started as an online marketplace for books, but gradually expanded its offerings to include a wide range of product categories, referred to as \"The Everything Store\". Amazon is considered part of the Big Tech group, alongside Nvidia, Microsoft, Apple, Alphabet, and Meta.",
+      "extract_html": "<p><b>Amazon.com, Inc.</b>, doing business as <b>Amazon</b>, is an American multinational technology company engaged in e-commerce, cloud computing, online advertising, digital streaming, and artificial intelligence. Founded in 1994 by Jeff Bezos in Bellevue, Washington, the company originally started as an online marketplace for books, but gradually expanded its offerings to include a wide range of product categories, referred to as \"The Everything Store\". Amazon is considered part of the Big Tech group, alongside Nvidia, Microsoft, Apple, Alphabet, and Meta.</p>"
+    }
+  },
+  "ddg_links": [
+    {
+      "title": "Amazon.com. Spend less. Smile more.",
+      "href": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.amazon.com%2F&rut=a318b5b8e3b3a98c5539aa0893a30ca150561f6ce69ddfd9c0538e8168af2359"
+    },
+    {
+      "title": "Amazon.com, Inc. - Overview",
+      "href": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fir.aboutamazon.com%2Foverview%2Fdefault.aspx&rut=d8e3802e2c27baae31053f8a58d719160b825baee71503dc4dabad2e0119a101"
+    },
+    {
+      "title": "Amazon (company) - Wikipedia",
+      "href": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAmazon_(company)&rut=473d528334505cf303a01f5e715a15942b297bdc19413ba4b6afa63df22a4f3e"
+    },
+    {
+      "title": "Amazon.com, Inc. (AMZN) Company Profile & Facts - Yahoo Finance",
+      "href": "//duckduckgo.com/l/?uddg=https%3A%2F%2Ffinance.yahoo.com%2Fquote%2FAMZN%2Fprofile%2F&rut=6c8dbccd5d5d16a9e9011a8267ebe6a7882ebe3d087013ab059009e25ca5d4a8"
+    },
+    {
+      "title": "Amazon.com | Inc",
+      "href": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.inc.com%2Famazoncom&rut=42df5daeed15bd2524858974a96710ac3e7ac5e79074f3745ab1a5987b50508c"
+    },
+    {
+      "title": "Amazon.com Inc, AMZN:NSQ profile - FT.com",
+      "href": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fmarkets.ft.com%2Fdata%2Fequities%2Ftearsheet%2Fprofile%3Fs%3DAMZN%3ANSQ&rut=52f00442d45da2fe7d481cf15d19699f40f07711b3112bafa2494446fcd9ba63"
+    },
+    {
+      "title": "Amazon | E-commerce, Amazon Web Services, History, & Facts | Britannica ...",
+      "href": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.britannica.com%2Fmoney%2FAmazoncom&rut=9c828be276d9878c8f6652f49e4cc3c8e290cb6d43bf0182fd65697a284d5399"
+    },
+    {
+      "title": "Amazon.com Inc - Company Profile and News - Bloomberg Markets",
+      "href": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.bloomberg.com%2Fprofile%2Fcompany%2FAMZN01%3ATB&rut=fae5ea52a878a314c034c03671a9f5034c514618ff0a2ad6bd5ea18013f8d095"
+    }
+  ],
+  "official_link_guess": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fir.aboutamazon.com%2Foverview%2Fdefault.aspx&rut=d8e3802e2c27baae31053f8a58d719160b825baee71503dc4dabad2e0119a101",
+  "domain": "duckduckgo.com",
+  "site_snapshot": {
+    "fetched_url": "https://duckduckgo.com",
+    "title": "DuckDuckGo - Protection. Privacy. Peace of mind.",
+    "description": "The Internet privacy company that empowers you to seamlessly take control of your personal information online, without any tradeoffs.",
+    "emails": []
+  },
+  "whois": {
+    "error": "whois timeout"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "target": "https://youtube.com",
+  "timestamp": "2025-10-12T06:32:36.348909+00:00",
+  "findings": {
+    "critical": [],
+    "high": [],
+    "medium": [
+      "CSP does not contain default-src or script-src — may be insufficiently restrictive.",
+      "Cookie without SameSite: GPS=1"
+    ],
+    "low": [
+      "Missing Referrer-Policy — possible referrer/URL leakage.",
+      "Server header exposed: ESF (may leak technology stack)."
+    ],
+    "info": []
+  },
+  "headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "X-Content-Type-Options": "nosniff",
+    "Cache-Control": "no-cache, no-store, max-age=0, must-revalidate",
+    "Pragma": "no-cache",
+    "Expires": "Mon, 01 Jan 1990 00:00:00 GMT",
+    "Date": "Sun, 12 Oct 2025 06:32:36 GMT",
+    "Content-Length": "0",
+    "X-Frame-Options": "SAMEORIGIN",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Origin-Trial": "AmhMBR6zCLzDDxpW+HfpP67BqwIknWnyMOXOQGfzYswFmJe+fgaI6XZgAzcxOrzNtP7hEDsOo1jdjFnVr2IdxQ4AAAB4eyJvcmlnaW4iOiJodHRwczovL3lvdXR1YmUuY29tOjQ0MyIsImZlYXR1cmUiOiJXZWJWaWV3WFJlcXVlc3RlZFdpdGhEZXByZWNhdGlvbiIsImV4cGlyeSI6MTc1ODA2NzE5OSwiaXNTdWJkb21haW4iOnRydWV9",
+    "Content-Security-Policy": "require-trusted-types-for 'script'",
+    "Report-To": "{\"group\":\"youtube_main\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/youtube_main\"}]}",
+    "Permissions-Policy": "ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factors=*, ch-ua-platform=*, ch-ua-platform-version=*",
+    "Cross-Origin-Opener-Policy": "same-origin-allow-popups; report-to=\"youtube_main\"",
+    "reporting-endpoints": "default=\"/web-reports?context=eJwNyltIk3EYx_Fef6Trfbe9e_8PYTmjHA4vdDZPkagdjMwkzYuC4Yx52sKYTte2jOxwIZYlRoSamoVCzkqlogJZIgQlSmR4QCrN8qYssSI0LcL-F5-L5_l9xfr1tSNOwbZWJkRmlgsPzlYK-VFuYf_oSaE-wyMsd3mE3oBHWNjmE6wGn3Bj0ic4Z6uEWzpLUFWYJSiQJ8LhELHUIuLntIiq7yKs0RJYrITxLAkLORJO5Et46pcQeCRh5rMEr1WNHwVqJHrVcC2rMZ-rwUCLBmPjGhTOaRBzRIvUei26-7XIHdLiGpe4qsXiPy2McTKqk2XsSJPRd0CGzy5D8slorZMR1yxD1SHD4JcROiKjbk7GQKQOqgIdRG6sTYfp3zqk_NHhGCm4eVTBjE1B9nEF1dUKajjzeQXpV7gGBbuaFAzeU6DvU0ATCsLnFcytKNBuYCjbzNBjYkhIYIjaw_Akg-Edt5bFkG1lqLAxLNUysCaGBj_DxW4Gy12G54MMaa8Z9KMMqWMMEZMMximG0GWGTSsMu4MJU5wqhDAhEXLCCJe5bD3h_lbCIEcGQkYkIdNIKOEKognh2wkxSYS3KYRfewlf0wnew4QVLmAhtOURoooIEXbCIW5fKSG-jCC6CNe5D5WEjW5CDTd-juC4RLA2Eh638l87ob2DcLWT8JHbcofg7iKc8RPedBOCegjDnPMhYbaf0BggdAzw_SWhZ4hwe5h3r3g3RTj4nvCMW_3E7y-EEM74jfeLvNevC2ZqVU1z71Cw7kLni7-CwXTa5fV4i-yxp-xFJofbVe4x2ctLTMXuUk9pcaHTFm-OT4ozm3fGmpNtFeb_rhDHsg\"",
+    "document-policy": "include-js-call-stacks-in-crash-reports",
+    "P3P": "CP=\"This is not a P3P policy! See http://support.google.com/accounts/answer/151657?hl=uk for more info.\"",
+    "Server": "ESF",
+    "X-XSS-Protection": "0",
+    "Set-Cookie": "GPS=1; Domain=.youtube.com; Expires=Sun, 12-Oct-2025 07:02:36 GMT; Path=/; Secure; HttpOnly",
+    "Alt-Svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+  },
+  "tls_info": {
+    "host": "youtube.com",
+    "port": 443,
+    "cert": {},
+    "issuer": null,
+    "subject": null,
+    "ok": true
+  },
+  "final_url": "https://www.youtube.com/"
+}
